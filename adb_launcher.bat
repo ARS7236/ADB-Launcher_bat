@@ -4,6 +4,7 @@ color 0A
 
 :: =================================
 :: ADB Launcher
+:: Version: 0.0.1-dev
 :: Created by ars7236
 :: Do not remove credits
 :: =================================
